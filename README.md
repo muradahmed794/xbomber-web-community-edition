@@ -158,10 +158,9 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 - [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ffsowmik)&nbsp;
 - [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)&nbsp;
 
-**Team X 1337**
-- [![Facebook Group](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/groups/team.x.official.community)&nbsp;
-- [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
-- [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Teamx1337official)&nbsp;
+**MURAD X**
+- [![Facebook ACCOUNT](https://www.facebook.com/MURAD.CEO32
+
 
 
 
@@ -178,7 +177,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 [forks-url]: https://github.com/WeAreTeamX/xbomber-web-community-edition/network/members
 [stars-shield]: https://img.shields.io/github/stars/WeAreTeamX/xbomber-web-community-edition.svg?style=for-the-badge
 [stars-url]: https://github.com/WeAreTeamX/xbomber-web-community-edition/stargazers
-[issues-shield]: https://img.shields.io/github/issues/WeAreTeamX/xbomber-web-community-edition.svg?style=for-the-badge
+[issues-shield]: https://img.seTeamX/xbomber-web-community-edition.svg?style=for-the-badge
 [issues-url]: https://github.com/WeAreTeamX/xbomber-web-community-edition/issues
 [license-shield]: https://img.shields.io/github/license/WeAreTeamX/xbomber-web-community-edition.svg?style=for-the-badge
 [license-url]: https://github.com/WeAreTeamX/xbomber-web-community-edition/blob/master/LICENSE.txt
